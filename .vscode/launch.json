@@ -1,63 +1,70 @@
 {
-    "configurations": [
-        {
-            "type": "java",
-            "name": "FinalVisibiltyDemo",
-            "request": "launch",
-            "mainClass": "com.example.design_pattern.problem.multithread.visibility.FinalVisibiltyDemo",
-            "projectName": "design-pattern"
-        },
-        {
-            "type": "java",
-            "name": "VisibiltyDemo",
-            "request": "launch",
-            "mainClass": "com.example.design_pattern.problem.multithread.visibility.VisibiltyDemo",
-            "projectName": "design-pattern"
-        },
-        {
-            "type": "java",
-            "name": "ThreadinterferenceFixed2",
-            "request": "launch",
-            "mainClass": "com.example.design_pattern.problem.multithread.threadinterference.ThreadinterferenceFixed2",
-            "projectName": "design-pattern"
-        },
-        {
-            "type": "java",
-            "name": "ThreadinterferenceFixed",
-            "request": "launch",
-            "mainClass": "com.example.design_pattern.problem.multithread.threadinterference.ThreadinterferenceFixed",
-            "projectName": "design-pattern"
-        },
-        {
-            "type": "java",
-            "name": "ThreadinterferenceDemo",
-            "request": "launch",
-            "mainClass": "com.example.design_pattern.problem.multithread.threadinterference.ThreadinterferenceDemo",
-            "projectName": "design-pattern"
-        },
-        {
-            "type": "java",
-            "name": "RaceConditionResult",
-            "request": "launch",
-            "mainClass": "com.example.design_pattern.problem.multithread.RaceConditionResult",
-            "projectName": "design-pattern"
-        },
-        {
-            "type": "java",
-            "name": "RaceConditionDemo",
-            "request": "launch",
-            "mainClass": "com.example.design_pattern.problem.multithread.RaceConditionDemo",
-            "projectName": "design-pattern"
-        },
-        {
-            "type": "java",
-            "name": "Spring Boot-DesignPatternApplication<design-pattern>",
-            "request": "launch",
-            "cwd": "${workspaceFolder}",
-            "mainClass": "com.example.design_pattern.DesignPatternApplication",
-            "projectName": "design-pattern",
-            "args": "",
-            "envFile": "${workspaceFolder}/.env"
-        }
-    ]
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CallableDemo",
+      "request": "launch",
+      "mainClass": "com.example.interfacedemo.CallableDemo",
+      "projectName": "design-pattern"
+    },
+    {
+      "type": "java",
+      "name": "FinalVisibiltyDemo",
+      "request": "launch",
+      "mainClass": "com.example.design_pattern.problem.multithread.visibility.FinalVisibiltyDemo",
+      "projectName": "design-pattern"
+    },
+    {
+      "type": "java",
+      "name": "VisibiltyDemo",
+      "request": "launch",
+      "mainClass": "com.example.design_pattern.problem.multithread.visibility.VisibiltyDemo",
+      "projectName": "design-pattern"
+    },
+    {
+      "type": "java",
+      "name": "ThreadinterferenceFixed2",
+      "request": "launch",
+      "mainClass": "com.example.design_pattern.problem.multithread.threadinterference.ThreadinterferenceFixed2",
+      "projectName": "design-pattern"
+    },
+    {
+      "type": "java",
+      "name": "ThreadinterferenceFixed",
+      "request": "launch",
+      "mainClass": "com.example.design_pattern.problem.multithread.threadinterference.ThreadinterferenceFixed",
+      "projectName": "design-pattern"
+    },
+    {
+      "type": "java",
+      "name": "ThreadinterferenceDemo",
+      "request": "launch",
+      "mainClass": "com.example.design_pattern.problem.multithread.threadinterference.ThreadinterferenceDemo",
+      "projectName": "design-pattern"
+    },
+    {
+      "type": "java",
+      "name": "RaceConditionResult",
+      "request": "launch",
+      "mainClass": "com.example.design_pattern.problem.multithread.RaceConditionResult",
+      "projectName": "design-pattern"
+    },
+    {
+      "type": "java",
+      "name": "RaceConditionDemo",
+      "request": "launch",
+      "mainClass": "com.example.design_pattern.problem.multithread.RaceConditionDemo",
+      "projectName": "design-pattern"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-DesignPatternApplication<design-pattern>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.example.design_pattern.DesignPatternApplication",
+      "projectName": "design-pattern",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
 }
