@@ -2,6 +2,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "H2Demo",
+      "request": "launch",
+      "mainClass": "com.example.data_exchange.H2Demo",
+      "projectName": "design-pattern"
+    },
+    {
+      "type": "java",
+      "name": "DatabaseShareDemo",
+      "request": "launch",
+      "mainClass": "com.example.data_exchange.DatabaseShareDemo",
+      "projectName": "design-pattern"
+    },
+    {
+      "type": "java",
+      "name": "FileShareDemo",
+      "request": "launch",
+      "mainClass": "com.example.data_exchange.FileShareDemo",
+      "projectName": "design-pattern"
+    },
+    {
+      "type": "java",
+      "name": "RunnableDemo",
+      "request": "launch",
+      "mainClass": "com.example.interfacedemo.RunnableDemo",
+      "projectName": "design-pattern"
+    },
+    {
+      "type": "java",
       "name": "CallableDemo",
       "request": "launch",
       "mainClass": "com.example.interfacedemo.CallableDemo",
