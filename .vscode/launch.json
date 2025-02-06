@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WeightForWeight",
+            "request": "launch",
+            "mainClass": "com.example.code_wars.WeightForWeight",
+            "projectName": "design-pattern"
+        },
+        {
+            "type": "java",
+            "name": "BitCounting",
+            "request": "launch",
+            "mainClass": "com.example.code_wars.BitCounting",
+            "projectName": "design-pattern"
+        },
+        {
+            "type": "java",
+            "name": "WordStream",
+            "request": "launch",
+            "mainClass": "com.example.java8.stream.WordStream",
+            "projectName": "design-pattern"
+        },
+        {
+            "type": "java",
+            "name": "UnaryOperatorDemo",
+            "request": "launch",
+            "mainClass": "com.example.java8.function.UnaryOperatorDemo",
+            "projectName": "design-pattern"
+        },
+        {
+            "type": "java",
+            "name": "IntStreamDemo",
+            "request": "launch",
+            "mainClass": "com.example.java8.stream.IntStreamDemo",
+            "projectName": "design-pattern"
+        },
+        {
+            "type": "java",
+            "name": "multiples35",
+            "request": "launch",
+            "mainClass": "com.example.code_wars.multiples35",
+            "projectName": "design-pattern"
+        },
+        {
+            "type": "java",
             "name": "FinalVisibiltyDemo",
             "request": "launch",
             "mainClass": "com.example.design_pattern.problem.multithread.visibility.FinalVisibiltyDemo",
