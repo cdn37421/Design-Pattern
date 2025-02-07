@@ -65,6 +65,9 @@
 			<artifactId>junit-jupiter</artifactId>
 			<version>5.9.2</version>
 			<scope>test</scope>
+			<groupId>com.h2database</groupId>
+			<artifactId>h2</artifactId>
+			<version>2.2.224</version> <!-- 確保版本正確 -->
 		</dependency>
 	</dependencies>
 
