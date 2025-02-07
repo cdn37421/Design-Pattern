@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GreedyChange",
+            "request": "launch",
+            "mainClass": "com.example.algo.Greedy.GreedyChange",
+            "projectName": "design-pattern"
+        },
+        {
+            "type": "java",
+            "name": "Best_Time_to_Buy_II",
+            "request": "launch",
+            "mainClass": "com.example.leetcode.Best_Time_to_Buy_II",
+            "projectName": "design-pattern"
+        },
+        {
+            "type": "java",
+            "name": "Best_Time_to_Buy",
+            "request": "launch",
+            "mainClass": "com.example.leetcode.Best_Time_to_Buy",
+            "projectName": "design-pattern"
+        },
+        {
+            "type": "java",
             "name": "WeightForWeight",
             "request": "launch",
             "mainClass": "com.example.code_wars.WeightForWeight",
